@@ -1,0 +1,9 @@
+﻿  Logger.cpp
+  PeParser.cpp
+  Util.cpp
+  WinPeParser.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WinPeParser.vcxproj -> C:\Users\samoa\source\repos\WindowsPeParser\Release\WinPeParser.exe

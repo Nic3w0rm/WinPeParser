@@ -1,0 +1,7 @@
+﻿  Logger.cpp
+  Generating code
+  8 of 214 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WinPeParser.vcxproj -> C:\Users\samoa\source\repos\WindowsPeParser\x64\Release\WinPeParser.exe
