@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\samoa\source\repos\WindowsPeParser\x64\Release\WinPeParser.exe</FullPath>
+      <FullPath>C:\Users\SaMo\source\repos\WinPeParser\bin\x64\Release\WinPeParser.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
